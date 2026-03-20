@@ -1,13 +1,14 @@
 ---
 title: "Introduction to SimplyAnalytics - Video Tutorials"
 layout: "home"
-description: ""
+description: "SimplyAnalytics is a web-based data visualization application that can be used to create simple thematic maps and support analyses of socio-demographic data. This tutorial introduces SimplyAnalytics and its capabilities with the help of videos produced by our colleagues at UTSC."
+created_date: 2022-07-22
 permalink: "/"  #! Remove this if not the homepage
 ---
 
 # Introduction to SimplyAnalytics - Video Tutorials
 
-[SimplyAnalytics](https://simplyanalytics.com/) is a web\-based data visualization application that can be used to create simple thematic maps and support analyses of socio\-demographic data. This tutorial introduces SimplyAnalytics and its capabilities with the help of [videos produced by our colleagues at UTSC](https://www.utsc.utoronto.ca/thebridge/ .).
+[SimplyAnalytics](https://simplyanalytics.com/) is a web-based data visualization application that can be used to create simple thematic maps and support analyses of socio-demographic data. This tutorial introduces SimplyAnalytics and its capabilities with the help of [videos produced by our colleagues at UTSC](https://www.utsc.utoronto.ca/thebridge/ .).
 
 Step 1: Accessing SimplyAnalytics
 ---------------------------------
@@ -28,15 +29,15 @@ Step 3: Creating a thematic map
 
 This step is broken down into three separate videos, each demonstrating the work involved in creating a thematic map.
 
-In the first video, you will learn how to**a) navigate and explore the map;**and**b) select a variable.**
+In the first video, you will learn how to **a) navigate and explore the map;** and **b) select a variable.**
 
 [https://play.library.utoronto.ca/embed/55ff44ca54b21d8f49d7e664c6e881d1](https://play.library.utoronto.ca/embed/55ff44ca54b21d8f49d7e664c6e881d1)
 
-In the next video, you will learn how to**c) refine the location**by moving across geographic units, creating a combination location, and creating a radius location.
+In the next video, you will learn how to **c) refine the location** by moving across geographic units, creating a combination location, and creating a radius location.
 
 [https://play.library.utoronto.ca/embed/e3af8c0e59ed5a2808ae3673f28001f0](https://play.library.utoronto.ca/embed/e3af8c0e59ed5a2808ae3673f28001f0)
 
-In the final video for this step, you will learn how to**d)** **use the legend editor;**and**e) manage maps in SimplyAnalytics.**
+In the final video for this step, you will learn how to **d)** **use the legend editor;** and **e) manage maps in SimplyAnalytics.**
 
 [https://play.library.utoronto.ca/embed/74bb642f0ca6b72348838b00aad5081e](https://play.library.utoronto.ca/embed/74bb642f0ca6b72348838b00aad5081e)
 
@@ -59,15 +60,15 @@ Step 6: Creating reports
 
 This step is broken down into three separate videos that are accompanied by two exercises.
 
-In the first video, you will learn how to**a) create a business report.**This video includes an exercise where you will be tasked with generating and exporting a business report.
+In the first video, you will learn how to **a) create a business report.** This video includes an exercise where you will be tasked with generating and exporting a business report.
 
 [https://play.library.utoronto.ca/embed/f1c2c29144079e137306e27ea7897237](https://play.library.utoronto.ca/embed/f1c2c29144079e137306e27ea7897237)
 
-The next video will teach you how to**b) create a comparative report,**allowing you to compare data across locations and variables.
+The next video will teach you how to **b) create a comparative report,** allowing you to compare data across locations and variables.
 
 [https://play.library.utoronto.ca/embed/1fcd4867a0d3f59d0254ef53712629be](https://play.library.utoronto.ca/embed/1fcd4867a0d3f59d0254ef53712629be)
 
-In the final video for this step, you will learn how to**c) create a ranking report**, which provides a table view useful for comparing data for all geographic units within a location, ranking them by your chosen variable. This video is accompanied by an exercise, providing you with the opportunity to explore the various report types offered by SimplyAnalytics.
+In the final video for this step, you will learn how to **c) create a ranking report**, which provides a table view useful for comparing data for all geographic units within a location, ranking them by your chosen variable. This video is accompanied by an exercise, providing you with the opportunity to explore the various report types offered by SimplyAnalytics.
 
 [https://play.library.utoronto.ca/embed/7c4f6035486cd379037361fb39327ccf](https://play.library.utoronto.ca/embed/7c4f6035486cd379037361fb39327ccf)
 
@@ -78,12 +79,12 @@ In the final video for this tutorial, you will be introduced to the [SimplyAnaly
 
 [https://play.library.utoronto.ca/embed/81fd7f94de65c18fefa454a6fca81721](https://play.library.utoronto.ca/embed/81fd7f94de65c18fefa454a6fca81721)
 
-If you have any questions about using SimplyAnalytics or need more general support, please email us at [mdl@library.utoronto.ca](http://mailto:mdl@library.utoronto.ca) or fill out our [support request form.](https://mdl.library.utoronto.ca/about/contact-form)If you'd like in\-person assistance, [please review our hours](https://mdl.library.utoronto.ca/about/hours).
+If you have any questions about using SimplyAnalytics or need more general support, please email us at [mdl@library.utoronto.ca](http://mailto:mdl@library.utoronto.ca) or fill out our [support request form.](https://mdl.library.utoronto.ca/about/contact-form) If you'd like in-person assistance, [please review our hours](https://mdl.library.utoronto.ca/about/hours).
 
 Please also feel free to consult these official guides from SimplyAnalytics:
 
 * [SimplyAnalytics Canada FAQ](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada%20FAQ_Standard.pdf)
-* [SimplyAnalytics Canada FAQ \- PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
+* [SimplyAnalytics Canada FAQ - PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
 * [SimplyAnalytics USA Exercise Guide](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/SimplyAnalytics USA Exercise Guide - Answering Research Questions - Standard.pdf)
 
-Technique: [Data Visualization](/technique/data-visualization), [Mapping](/technique/mapping) \| Tools: [SimplyAnalytics](/tools/simplyanalytics-0)**Date Created:** 2022\-07\-22**Updated:** 2025\-01\-27
+Technique: [Data Visualization](https://mdl.library.utoronto.ca/technique/data-visualization), [Mapping](https://mdl.library.utoronto.ca/technique/mapping) | Tools: [SimplyAnalytics](https://mdl.library.utoronto.ca/tools/simplyanalytics-0)
