@@ -4,6 +4,9 @@ layout: "home"
 description: "SimplyAnalytics is a web-based data visualization application that can be used to create simple thematic maps and support analyses of socio-demographic data. This tutorial introduces SimplyAnalytics and its capabilities with the help of videos produced by our colleagues at UTSC."
 created_date: 2022-07-22
 permalink: "/"  #! Remove this if not the homepage
+maintainer:
+ - name: Leanne Trimble
+   link: https://library.utoronto.ca/staff/leanne-trimble
 ---
 
 # Introduction to SimplyAnalytics - Video Tutorials
@@ -19,8 +22,9 @@ In this video, you will learn how to access SimplyAnalytics with your UTORid and
 
 Step 2: Setting up a project
 ----------------------------
+https://go.openathens.net/redirector/utoronto.ca?url=https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/azindex-eng.cfm
 
-Below, you will learn how to set up a new project using SimplyAnalytics. At the end of this video, you will be able to understand the difference between [Canadian census geography units](https://www12-statcan-gc-ca.myaccess.library.utoronto.ca/census-recensement/2011/ref/dict/azindex-eng.cfm) while working with the Toronto Census Metro Area (CMA) in your new SimplyAnalytics project.
+Below, you will learn how to set up a new project using SimplyAnalytics. At the end of this video, you will be able to understand the difference between [Canadian census geography units](https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/azindex-eng.cfm) while working with the Toronto Census Metro Area (CMA) in your new SimplyAnalytics project.
 
 [https://play.library.utoronto.ca/embed/9fe718f7a53a842ff2dfc36412a91521](https://play.library.utoronto.ca/embed/9fe718f7a53a842ff2dfc36412a91521)
 
