@@ -28,7 +28,6 @@ In this video, you will learn how to access SimplyAnalytics with your UTORid and
 
 Step 2: Setting up a project
 ----------------------------
-https://go.openathens.net/redirector/utoronto.ca?url=https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/azindex-eng.cfm
 
 Below, you will learn how to set up a new project using SimplyAnalytics. At the end of this video, you will be able to understand the difference between [Canadian census geography units](https://www12.statcan.gc.ca/census-recensement/2011/ref/dict/azindex-eng.cfm) while working with the Toronto Census Metro Area (CMA) in your new SimplyAnalytics project.
 
