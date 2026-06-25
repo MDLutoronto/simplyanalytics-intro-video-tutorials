@@ -11,7 +11,9 @@ maintainer:
 
 # Introduction to SimplyAnalytics - Video Tutorials
 
-[SimplyAnalytics](https://simplyanalytics.com/) is a web-based data visualization application that can be used to create simple thematic maps and support analyses of socio-demographic data. This tutorial introduces SimplyAnalytics and its capabilities with the help of [videos produced by our colleagues at UTSC](https://www.utsc.utoronto.ca/thebridge/ .).
+[SimplyAnalytics](https://simplyanalytics.com/) is a web-based data visualization application that can be used to create simple thematic maps and support analyses of socio-demographic data. This tutorial introduces SimplyAnalytics and its capabilities with the help of videos produced by our colleagues at UTSC.
+
+This is the [tutorial](https://mdlutoronto.github.io/simplyanalytics-intro/) it was adapted from.
 
 Step 1: Accessing SimplyAnalytics
 ---------------------------------
@@ -164,4 +166,4 @@ Please also feel free to consult these official guides from SimplyAnalytics:
 * [SimplyAnalytics Canada FAQ - PRIZM database](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/Canada FAQ Sheet_PRIZM_PremD&B.pdf)
 * [SimplyAnalytics USA Exercise Guide](https://mdl.library.utoronto.ca/sites/default/public/mdldata/open/international/simplyanalytics_guides/SimplyAnalytics USA Exercise Guide - Answering Research Questions - Standard.pdf)
 
-Technique: [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping) | Tools: [SimplyAnalytics](https://mdlutoronto.github.io/tutorials-search/?tool=SimplyAnalytics)
+**Technique:** [Data Visualization](https://mdlutoronto.github.io/tutorials-search/?technique=Data+Visualization), [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping) \| **Tools:** [SimplyAnalytics](https://mdlutoronto.github.io/tutorials-search/?tool=SimplyAnalytics)
