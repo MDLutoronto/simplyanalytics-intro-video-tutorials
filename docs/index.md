@@ -158,7 +158,7 @@ In the final video for this tutorial, you will be introduced to the [SimplyAnaly
 </iframe>
 
 
-If you have any questions about using SimplyAnalytics or need more general support, please email us at [mdl@library.utoronto.ca](http://mailto:mdl@library.utoronto.ca) or fill out our [support request form.](https://mdl.library.utoronto.ca/about/contact-form) If you'd like in-person assistance, [please review our hours](https://mdl.library.utoronto.ca/about/hours).
+If you have any questions about using SimplyAnalytics or need more general support, please email us at [mdl@library.utoronto.ca](http://mailto:mdl@library.utoronto.ca) or fill out our [support request form.](https://library.utoronto.ca/contact-us/data-maps) If you'd like in-person assistance, [please review our hours](https://mdl.library.utoronto.ca/about/hours).
 
 Please also feel free to consult these official guides from SimplyAnalytics:
 
