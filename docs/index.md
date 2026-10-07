@@ -147,7 +147,7 @@ In the final video for this step, you will learn how to **c) create a ranking re
 Step 7: Getting help
 --------------------
 
-In the final video for this tutorial, you will be introduced to the [SimplyAnalytics Help Center](https://simplyanalytics.zendesk.com/hc/en-us) and the [supports available through the Map and Data Library.](https://mdl.library.utoronto.ca/get-help-mdl)
+In the final video for this tutorial, you will be introduced to the [SimplyAnalytics Help Center](https://simplyanalytics.zendesk.com/hc/en-us) and the [supports available through the Map and Data Library.](https://library.utoronto.ca/contact-us/data-maps)
 
 <iframe
   width="100%"
@@ -158,7 +158,7 @@ In the final video for this tutorial, you will be introduced to the [SimplyAnaly
 </iframe>
 
 
-If you have any questions about using SimplyAnalytics or need more general support, please email us at [mdl@library.utoronto.ca](http://mailto:mdl@library.utoronto.ca) or fill out our [support request form.](https://library.utoronto.ca/contact-us/data-maps) If you'd like in-person assistance, [please review our hours](https://mdl.library.utoronto.ca/about/hours).
+If you have any questions about using SimplyAnalytics or need more general support, please email us at [mdl@library.utoronto.ca](http://mailto:mdl@library.utoronto.ca) or fill out our [support request form.](https://library.utoronto.ca/contact-us/data-maps) If you'd like in-person assistance, [please review our hours](https://library.utoronto.ca/libraries?searchTerm=Map+%26+Data+Library).
 
 Please also feel free to consult these official guides from SimplyAnalytics:
 
